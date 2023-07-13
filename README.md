@@ -1,0 +1,1 @@
+This project will be a basic website for storing recipes, containing a home page as well as links to specific recipes. Within this website I"ll be utilizing basic HTML elements such as links, ordered and unordered lists, and different text formatting.
